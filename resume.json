@@ -1,0 +1,201 @@
+{
+    "basics": {
+      "name": "Maaz Abdullah",
+      "label": "Software Developer",
+      "picture": "images/me.png",
+      "x_title": "Hey There! Glad you're here",
+      "summary": "Going on 1 years of experience in IT. Currently, I’m working as a Developer/Associate Consultant exploring the SAP SuccessFactors and Software World. I’m interested in software development, all sorts of automation and developing front-end and back-end applications.",
+      "location": {
+        "country": "India",
+        "countryCode": "IND",
+        "region": "New Delhi"
+      },
+      "profiles": [
+        {
+          "network": "HackerRank",
+          "username": "maaz",
+          "url": "https://www.hackerrank.com/maaz_abdullah111",
+          "x_icon": "fab fa-2x fa-hackerrank"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "maaz-abdullah",
+          "url": "https://www.linkedin.com/in/maaz-abdullah/",
+          "x_icon": "fab fa-2x fa-linkedin"
+        },
+        {
+          "network": "GitHub",
+          "username": "maaz1996",
+          "url": "https://github.com/maaz1996",
+          "x_icon": "fab fa-2x fa-github"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Stepping Cloud",
+        "position": "SAP Integration and Innovation Consultant",
+        "website": "https://www.bosch.hu",
+        "startDate": "2019-07-22",
+        "endDate": "",
+        "summary": "Joined the Alumni Portal Project as Backend developer, Got into SAP SuccessFactors Domain, REST APIs, Integration, Workforce Analytics",
+        "highlights": []
+      },
+  
+      {
+        "company": "The Sparks Foundation",
+        "position": "Intern",
+        "website": "https://www.pst.asseco.com",
+        "startDate": "2018-08-15",
+        "endDate": "",
+        "summary": "Scrum Fundamentals, LinkedIn Improvement, Resume Booster, Web Development",
+        "highlights": []
+      },
+  
+      {
+        "company": "Read on Rent",
+        "position": "Developer",
+        "website": "https://www.eem.pt",
+        "startDate": "2017-03-01",
+        "endDate": "2017-09-01",
+        "summary": "Developed a website to get a startup business online wherein customers could order books to read on rent",
+        "highlights": []
+      },
+      {
+        "company": "Zakir Hussain College of Engg & Technology, AMU",
+        "position": "Computer Engineering(2015-2019)",
+        "website": "https://www.eem.pt",
+        "startDate": "2015-08-01",
+        "endDate": "2017-09-01",
+        "summary": "Object Oriented Programming, Database Management Systems, Algorithm & Data Structure,Computer Networks",
+        "highlights": []
+      }
+    ],
+    "education": [
+      {
+        "institution": "Zakir Hussain College of Engg & Technology, AMU",
+        "area": "Computer Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2011-08-01",
+        "endDate": "2019-06-07",
+        "courses": [
+          "Object Oriented Programming",
+          "Database Management Systems",
+          "Algorithm & Data Structure",
+          "Computer Networks"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "Java",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "Spring Boot",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "MongoDb",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "MySQL",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "React",
+        "level": "Intermediate",
+        "keywords": ["Programming Languages"]
+      },
+      {
+        "name": "Algorithm & Data Structure",
+        "level": "Advanced",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "Github",
+        "level": "Intermediate",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "AWS",
+        "level": "Intermediate",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "REST API",
+        "level": "Advanced",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "Git",
+        "level": "Intermediate",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "OS: Windows, Linux",
+        "level": "Advanced",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "Object Oriented Programming",
+        "level": "Intermediate",
+        "keywords": ["Frameworks/Problem Solving"]
+      },
+      {
+        "name": "SAP Successfactors",
+        "level": "Intermediate",
+        "keywords": ["Frameworks/Problem Solving"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent speaker"
+      },
+      {
+        "language": "Hindi",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Travel bug",
+        "x_icon": "fa-globe-africa"
+      },
+      {
+        "name": "Gamer",
+        "x_icon": "fa-gamepad"
+      },
+      {
+        "name": "Foodie",
+        "x_icon": "fa-utensils"
+      },
+      {
+        "name": "Live in the now",
+        "x_icon": "fa-brain"
+      }
+    ]
+  }
+ 
+  
